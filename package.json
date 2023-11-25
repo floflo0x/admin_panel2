@@ -11,6 +11,9 @@
     "request": "^2.88.2",
     "request-promise-any": "^1.0.9"
   },
+  "engines": {
+    "node": ">=14"
+  },
   "name": "prac2Sh",
   "version": "1.0.0",
   "main": "index.js",
